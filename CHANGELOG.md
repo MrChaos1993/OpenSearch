@@ -14,6 +14,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Bump `org.jruby.joni:joni` from 2.2.3 to 2.2.5 ([#17608](https://github.com/opensearch-project/OpenSearch/pull/17608))
 
 ### Changed
+- Add segments codec check in UpgradeRequest to select segments for upgrade ([#17491](https://github.com/opensearch-project/OpenSearch/pull/17491))
 
 ### Deprecated
 
